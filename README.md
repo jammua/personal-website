@@ -1,1 +1,1 @@
-This repo contains the source files for my personal website [anmoljammu.com](http://anmoljammu.com).
+This repo contains the source for my personal website [anmoljammu.com](http://anmoljammu.com).
